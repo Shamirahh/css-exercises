@@ -1,0 +1,11 @@
+.elementone .elementtwo{
+    font-size: 28;
+    font-weight: Helvetica,"Times New Roman", sans-serif;
+}
+.elementone{
+    color: white;
+    background: black;
+}
+.elementtwo{
+    background: yellow;
+}
